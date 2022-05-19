@@ -1,0 +1,16 @@
+function elements(...args){
+    let sum=0;
+    let second=0;
+    let concat='';
+    for (let index = 0; index < args.length; index++) {
+       sum+=Number(args[index]);
+       second+=Number(1/args[index]);
+       concat+=args[index];
+        
+    }
+console.log(sum+'\n');
+console.log(second+'\n');
+console.log(concat+'\n');
+
+
+}
