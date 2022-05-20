@@ -1,1 +1,1 @@
-# JS-Advanced-May-2022
+# JS-Advanced-May-2022-SoftUni
