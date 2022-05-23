@@ -1,0 +1,7 @@
+function solve(text,start,end){
+    let startIndex=text.indexOf(start)
+    let endIndex=text.indexOf(end)+1
+    
+    let result=text.slice(startIndex,endIndex)
+  return result
+  }
